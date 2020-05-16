@@ -6,6 +6,8 @@ Project 3
 
 In this project we are implementing the Logistic Regression, Random Forest, SVM, XGBoost and CNN classifiers on various Audio Data Representations such as MFCC, STFT, PCA and Spectrograms.
 
+We used the FMA dataset for this project.
+
 Code for the project is available as the single jupyter notebook AudioCategorization.ipynb.
 
 Unzip the dataset and move the notebook into the same folder containing Datasets train, test and csv files train.csv, test_idx.csv. Notebook expects those folders and csv files to be in the same directory.
